@@ -1,4 +1,4 @@
-# Linux Monitoring v1.0
+# Linux monitoring v1.0
 
 ## Вступление
 
