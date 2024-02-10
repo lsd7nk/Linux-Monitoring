@@ -53,7 +53,7 @@ The font and background colors of the same column should not match.
 When you enter matching values, a message describing the problem is displayed and a suggestion to call the script again.
 After the message is displayed, the program terminates correctly.
 
-## Part 4. Configuring visual output design for the system research script
+## 4. Configuring visual output design for the system research script
 The script from "[**3. Visual output design for the system research script**](#part-3-visual-output-design-for-the-system-research-script)". The color designations are similar.
 The script runs without parameters. The parameters are set in the configuration file before running the script.
 
